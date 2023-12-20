@@ -1,2 +1,2 @@
-# calculadora.py
-Uma calculadora simples deita em python
+# Projeto Calculadora simples (Python)
+Uma calculadora simples feita em python
